@@ -44,8 +44,8 @@ La ejecución del reto se realiza desde la clase `Application`, la cual contiene
 Desde allí se invoca el método `ejecutar()` de la clase `Reto1`, que se encarga de manejar la interacción con el usuario.
 
 ### Evidencias
-![Entrada](Laboratorio2/Evidencias/Entrada.png)
-![Salida](Laboratorio2/Evidencias/Salida.png)
+![Entrada](Evidencias/Entrada.png)
+![Salida](Evidencias/Salida.png)
 
 ##  Reto #2: El Chef de 5 Estrellas
 
@@ -83,6 +83,6 @@ Desde allí se invoca el método `ejecutar()` de la clase `Reto2`, que se encarg
 la construcción de la hamburguesa y la visualización del resultado final en consola.
 
 ### Evidencias
-![Menú de ingredientes](Laboratorio2/Evidencias/MenuIngredientes.png)
-![Hamburguesa](Laboratorio2/Evidencias/ResultadoHamburguesa.png)
+![Menú de ingredientes](Evidencias/MenuIngredientes.png)
+![Hamburguesa](Evidencias/ResultadoHamburguesa.png)
 
