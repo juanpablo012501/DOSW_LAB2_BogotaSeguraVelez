@@ -5,7 +5,7 @@ In this proyect, Kevin Segura, Juan Daniel Bogotá and Juan Pablo Vélez will so
 
 ### 👥 Integrantes del grupo
 - **Kevin Segura**
-- **Juan David Vélez**
+- **Juan Pablo Vélez**
 - **Juan Bogotá**
 
 ---
@@ -51,7 +51,7 @@ Desde allí se invoca el método `ejecutar()` de la clase `Reto1`, que se encarg
 
 ### 👥 Integrantes del grupo
 - **Kevin Segura**
-- **Juan David Vélez**
+- **Juan Pablo Vélez**
 - **Juan Bogotá**
 
 ---
